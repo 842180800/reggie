@@ -11,6 +11,7 @@ public class CodeGenerator {
 
 //test 3版本  hot-fix3.add
 //test 3版本  fourth commit
+    //pull test
     public static void main(String[] args) {
 
         FastAutoGenerator.create("jdbc:mysql://175.24.181.119:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true",
